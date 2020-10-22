@@ -1,4 +1,4 @@
-const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:1337' : 'https://travel-log.mrtesau.vercel.app'; // INSERT SERVER URL
+const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:1337' : 'https://travel-log-hazel.vercel.app'; // INSERT SERVER URL
 // const { API_KEY } = process.env;
 
 // request using fetch(not axios lib)
